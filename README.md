@@ -1,1 +1,1 @@
-Aprender a subir correct
+#  Aprender a subir correctamente
